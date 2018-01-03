@@ -13,7 +13,10 @@ Just a simple PHP URL scraper that will fetch:
 ## Usage
 
 ```php
-require_once 'URLScraper.php';
+// include the class
+require_once __DIR__ . '/URLScraper.php';
+
+// get the results
 $result = URLScraper::get("https://bertmaurau.be/");  
 
 echo json_encode($result, JSON_PRETTY_PRINT);
