@@ -33,8 +33,7 @@ Will result in
 		"viewport": "width=device-width, initial-scale=1.0",
 		"description": "Bert Maurau, a 25 year old, Belgium-based Back-End Web- & Mobile Developer!",
 		"author": "Bert Maurau",
-		"keywords": "web,design,html,css,html5,development,bert,maurau,bert maurau,portfolio,profile,website,personal,angularjs,php,mysql,ionic,javascript",
-		"google-site-verification": "uAKydo4-4PHMWl-c093G0g70pqQjozOWGGqc7PDCcwk"
+		"keywords": "web,design,html,css,html5,development,bert,maurau,bert maurau,portfolio,profile,website,personal,angularjs,php,mysql,ionic,javascript"
 	},
 	"tags_og": {
 		"title": "Bert Maurau",
